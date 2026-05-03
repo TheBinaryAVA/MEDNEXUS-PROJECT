@@ -1,6 +1,7 @@
 # 🏥 MEDNEXUS – Next-Generation Hospital Operations Dashboard  
 *by Team **Arduinators***  
 
+
 **A real-time, AI-powered hospital dashboard that monitors KPIs, detects anomalies, predicts trends, manages queues, and sends proactive alerts. Designed for hackathons, demos, and industry-level presentations.**
 
 ---
